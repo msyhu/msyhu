@@ -11,6 +11,17 @@
 
 ---
 
+<h2 align="center">💫 Experience </h2>
+
+<!--
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffreckie)](https://hits.seeyoufarm.com)
+-->
+
+<p align="center">[Backend Developer] Develops POSCO Smart Factory Application (MES) Microservice REST API Server with Spring Boot & Spring Cloud in Cloud-Native Environment at <a href="https://www.poscoict.com/servlet/Main?lang=kr">POSCO ICT</a> (Oct 2018 - Aug 2020)</p>
+<p align="center">[Research Intern] Builds devSecOps pipeline using Jenkins, dependency-check at SK Telecom (Jul 2021 - Aug 2021)</p>
+
+---
+
 ### I Code with
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)
