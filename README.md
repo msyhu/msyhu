@@ -18,7 +18,7 @@
 -->
 
 <p align="center">[Backend Developer] Develops POSCO Smart Factory Application (MES) Microservice REST API Server with Spring Boot & Spring Cloud in Cloud-Native Environment at <a href="https://www.poscoict.com/servlet/Main?lang=kr">POSCO ICT</a> (Oct 2018 - Aug 2020)</p>
-<p align="center">[Research Intern] Builds devSecOps pipeline using Jenkins, dependency-check at SK Telecom (Jul 2021 - Aug 2021)</p>
+<p align="center">[Research Intern] Builds devSecOps pipeline using Jenkins, dependency-check at <a href="https://www.sktelecom.com/index.html">SK Telecom</a> (Jul 2021 - Aug 2021)</p>
 
 ---
 
