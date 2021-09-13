@@ -7,7 +7,9 @@
 <p align="center">I'm a graduate student in <b>Distributed & Cloud Computing Lab.</b> at <a href="http://korea.ac.kr">Korea University,</a>  
 <br>
   and I majored in Computer Science and Engineering at <a href="https://kookmin.ac.kr">Kookmin University.</a></p>
-<p align="center">I'm interested in <a href="https://en.wikipedia.org/wiki/Cloud_computing"><b>Cloud Computing</b></a> and <a href="https://en.wikipedia.org/wiki/Machine_learning"><b>Machine Learning</b></a>.</p>
+<p align="center">I'm interested in <a href="https://en.wikipedia.org/wiki/Cloud_computing"><b>Cloud Computing</b></a>, 
+  <a href="https://microservices.io/"><b>Microservice Architecture</b>
+  and <a href="https://en.wikipedia.org/wiki/Machine_learning"><b>Machine Learning</b></a>.</p>
 
 ---
 
