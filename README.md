@@ -30,14 +30,16 @@
 
 ### I Code with
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=white&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logoColor=white&logo=spring)
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logoColor=white&logo=javascript)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)
+![Python](https://img.shields.io/badge/Python-00ADD8?style=for-the-badge&logoColor=white&logo=python)
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logoColor=white&logo=spring)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker)
 
 <!--
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white&logo=visual%20studio%20code)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker)
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white&logo=amazon%20aws)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logoColor=white&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logoColor=white&logo=pytorch)
