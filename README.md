@@ -12,7 +12,7 @@
   <a href="https://en.wikipedia.org/wiki/Amazon_Web_Services"><b>AWS</b></a>,
   <a href="https://microservices.io/"><b>Microservice Architecture</b></a>
   plus 
-  <a href="https://en.wikipedia.org/wiki/Machine_learning"><b>Machine Learning</b></a>.
+  <a href="https://en.wikipedia.org/wiki/Spring_Framework"><b>Spring Framework</b></a>.
 </p>
 
 ---
