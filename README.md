@@ -28,7 +28,7 @@
 
 ---
 
-### I Code with
+### I'm interested in
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=white&logo=java)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)
