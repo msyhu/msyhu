@@ -7,6 +7,7 @@
 <p align="center">I'm a graduate student in <b>Distributed & Cloud Computing Lab.</b> at <a href="http://korea.ac.kr">Korea University,</a>  
 <br>
   and I majored in Computer Science and Engineering at <a href="https://kookmin.ac.kr">Kookmin University.</a></p>
+<!--
 <p align="center">I'm interested in 
   <a href="https://en.wikipedia.org/wiki/Kubernetes"><b>Kubernetes</b></a>,
   <a href="https://en.wikipedia.org/wiki/Amazon_Web_Services"><b>AWS</b></a>,
@@ -14,6 +15,7 @@
   and 
   <a href="https://en.wikipedia.org/wiki/Spring_Framework"><b>Spring Framework</b></a>.
 </p>
+-->
 
 ---
 
