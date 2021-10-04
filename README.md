@@ -32,10 +32,13 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=white&logo=java)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)
 ![Python](https://img.shields.io/badge/Python-00ADD8?style=for-the-badge&logoColor=white&logo=python)
-
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logoColor=white&logo=spring)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-2496ED?style=for-the-badge&logoColor=white&logo=kubernetes)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white&logo=visual%20studio%20code)
@@ -60,7 +63,9 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/msyhu/)
 
 ### My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msyhu&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msyhu&theme=blue-green)
+
+![dd](https://github-readme-stats.vercel.app/api?username=msyhu&theme=blue-green)
 
 <!--
 [![Freckie's github stats](https://github-readme-stats.vercel.app/api?username=freckie&cound_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
