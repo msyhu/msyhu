@@ -59,8 +59,8 @@
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-800000?style=for-the-badge&logoColor=white&logo=blogger)](https://velog.io/@msyhu)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/msyhu/)
 
-<!-- ### My Stats -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msyhu&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+### My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msyhu&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![Freckie's github stats](https://github-readme-stats.vercel.app/api?username=freckie&cound_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
