@@ -31,14 +31,16 @@
 
 ### I'm interested in
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=white&logo=java)
+![Java](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logoColor=white&logo=java)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)
 ![Python](https://img.shields.io/badge/Python-00ADD8?style=for-the-badge&logoColor=white&logo=python)
+
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logoColor=white&logo=spring)
+![react.js](https://img.shields.io/badge/react.js-0A66C2?style=for-the-badge&logoColor=white&logo=react)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-2496ED?style=for-the-badge&logoColor=white&logo=kubernetes)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF8C00?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
