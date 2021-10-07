@@ -42,7 +42,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-2496ED?style=for-the-badge&logoColor=white&logo=kubernetes)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF8C00?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<!-- ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) -->
 
 <!--
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white&logo=visual%20studio%20code)
