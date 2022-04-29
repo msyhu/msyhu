@@ -60,7 +60,7 @@
 
 
 ### To Contact me
-[![E-Mail](https://img.shields.io/badge/msyhu@korea.ac.kr-D14836?style=for-the-badge&logoColor=blue&logo=gmail)](mailto:msyhu@korea.ac.kr)
+[![E-Mail](https://img.shields.io/badge/anstkd07@gmail.com-D14836?style=for-the-badge&logoColor=blue&logo=gmail)](mailto:anstkd07@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logoColor=white&logo=github)](https://github.com/msyhu)
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-800000?style=for-the-badge&logoColor=white&logo=blogger)](https://velog.io/@msyhu)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/msyhu/)
