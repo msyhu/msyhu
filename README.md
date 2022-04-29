@@ -37,7 +37,6 @@
 ![Python](https://img.shields.io/badge/Python-00ADD8?style=for-the-badge&logoColor=white&logo=python)
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logoColor=white&logo=spring)
-![react.js](https://img.shields.io/badge/react.js-0A66C2?style=for-the-badge&logoColor=white&logo=react)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-2496ED?style=for-the-badge&logoColor=white&logo=kubernetes)
