@@ -1,4 +1,4 @@
-<h2 align="center">👋 msyhu (Moonsang Yhu) </h2>
+<h2 align="center">👋 msyhu (MoonSang YHU) </h2>
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffreckie)](https://hits.seeyoufarm.com)
