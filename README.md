@@ -24,7 +24,7 @@
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffreckie)](https://hits.seeyoufarm.com)
 -->
-<p align="center">[Kubernetes as a Service(KaaS) Engineer] Develops Kubernetes as a Service(KaaS) for Kakao i cloud at <a href="https://www.kakaoenterprise.com/">Kakao Enterprise</a> (May 2022 - )</p>
+<p align="center">[Kubernetes as a Service(KaaS) Engineer] Develops Kubernetes as a Service(KaaS) at <a href="https://www.kakaoenterprise.com/">Kakao Enterprise</a> (May 2022 - )</p>
 <p align="center">[Research Intern] Builds devSecOps pipeline using Jenkins, dependency-check at <a href="https://www.sktelecom.com/index.html">SK Telecom</a> (Jul 2021 - Aug 2021)</p>
 <p align="center">[Backend Developer] Develops POSCO Smart Factory Application (MES) Microservice REST API Server with Spring Boot & Spring Cloud in Cloud-Native Environment at <a href="https://www.poscoict.com/servlet/Main?lang=kr">POSCO ICT</a> (Oct 2018 - Aug 2020)</p>
 
