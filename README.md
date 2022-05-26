@@ -34,7 +34,7 @@
 
 ![Java](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logoColor=white&logo=java)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)
-![Python](https://img.shields.io/badge/Python-00ADD8?style=for-the-badge&logoColor=white&logo=python)
+<!-- ![Python](https://img.shields.io/badge/Python-00ADD8?style=for-the-badge&logoColor=white&logo=python) -->
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logoColor=white&logo=spring)
 
