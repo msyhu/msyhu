@@ -26,9 +26,9 @@
 ---
 <h2 align="center">💫 Education </h2>
 
-<p align="center">I'm a graduate student in <b>Distributed & Cloud Computing Lab.</b> at <a href="http://korea.ac.kr">Korea University,</a>  
+<p align="center">I'm a graduate student in <b>Distributed & Cloud Computing Lab </b> at <a href="http://korea.ac.kr">Korea University</a> (2021-) 
 <br>
-  and I majored in Computer Science and Engineering at <a href="https://kookmin.ac.kr">Kookmin University.</a></p>
+  and I majored in Computer Science and Engineering at <a href="https://kookmin.ac.kr">Kookmin University</a> (2012 - 2019) </p>
 
 ### I'm interested in
 
