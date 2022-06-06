@@ -30,6 +30,8 @@
 <br>
   and I majored in Computer Science and Engineering at <a href="https://kookmin.ac.kr">Kookmin University</a> (2012 - 2019) </p>
 
+---
+
 ### I'm interested in
 
 ![Java](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logoColor=white&logo=java)
